@@ -1,0 +1,19 @@
+mat-toolbar {
+  background-color: cyan;
+  font-size: 75px;
+ }
+
+mat-icon {
+  color: white;
+  background-color: cyan;
+  display: flex;
+  justify-content: right;
+  height: 25px;
+ }
+
+ button {
+  background-color: cyan;
+  height: 25px;
+  display: flex;
+  justify-content: right;
+ }
