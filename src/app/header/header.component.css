@@ -17,6 +17,13 @@ mat-icon {
   height: 25px;
   display: flex;
   justify-content: right;
+  color: aliceblue;
+  cursor: pointer;
+ }
+ div {
+  text-align: right;
+  align-items: flex-end;
+  justify-content: right;
  }
 
  span {
