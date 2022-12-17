@@ -1,19 +1,27 @@
 mat-toolbar {
-  background-color: cyan;
+  background-color: transparent;
+  color: aliceblue;
   font-size: 75px;
  }
 
 mat-icon {
   color: white;
-  background-color: cyan;
+  background-color: transparent;
   display: flex;
   justify-content: right;
   height: 25px;
  }
 
  button {
-  background-color: cyan;
+  background-color: transparent;
   height: 25px;
   display: flex;
   justify-content: right;
+ }
+
+ span {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
  }
